@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "aplicacionweb-f45ae": {
+      "hosting": {
+        "salaDeJuegos": [
+          "aplicacionweb-f45ae"
+        ]
+      }
+    }
+  }
+}
